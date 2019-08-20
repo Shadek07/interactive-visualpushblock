@@ -1,5 +1,5 @@
 # interactive-visualpushblock
-Worldmodel experiment demo on Unity3D visual pushblock game
+Worldmodel experiment demo on Unity3D visual pushblock game.
 
 Instruction for demo in linux:
 
@@ -10,4 +10,5 @@ sudo apt install nodejs
 sudo apt install npm
 npm install -g http-server
 http-server -c-1
+
 (then go to http://localhost:8081 on browser)
