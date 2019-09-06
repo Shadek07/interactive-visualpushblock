@@ -18,3 +18,5 @@ Instruction for demo in linux:
 7. http-server -c-1
 
 (then go to http://localhost:8081 on browser)
+
+If you do not want to run locally: check it [here](https://stupefied-lumiere-eaad09.netlify.com/)
